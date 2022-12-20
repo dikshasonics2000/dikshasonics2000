@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dikshasonics2000
 - 👀 I’m interested in learning blockchain development 
-- 🌱 I’m currently learning full stack blockchain development using Ethereum in solidity(MERN)
+- 🌱 I’m currently learning full stack blockchain development using Ethereum in solidity
 - 💞️ I’m looking to collaborate on projects related to blockchain, solidity smart contracts and other related projects.
 - 📫 How to reach me - U can mail me at - dikshasonics@gmail.com.
 -                      my linkedin id - https://www.linkedin.com/in/diksha-soni-901753186/
